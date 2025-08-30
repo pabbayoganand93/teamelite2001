@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Multimodal Chat",
+  "description": "A sleek, multimodal chatbot powered by the Gemini API. Engage in text generation, language translation, and image analysis through a modern and intuitive chat interface.",
+  "requestFramePermissions": []
+}
